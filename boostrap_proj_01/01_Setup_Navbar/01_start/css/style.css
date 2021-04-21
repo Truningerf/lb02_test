@@ -1,3 +1,8 @@
 body {
-    background-color: #0b2e13;
+    background-color: #333;
+    color: #fff;
+}
+.navbar {
+    border-bottom: #0008ed6 3px solid;
+    opacitiy: 0.8;
 }

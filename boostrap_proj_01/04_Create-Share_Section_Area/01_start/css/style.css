@@ -22,7 +22,7 @@ body {
     padding-top: 150px; }
   #home-section .card-form {
     opacity: 0.8; }
-  #home-section .fa {
+  #home-section .fa, #create-section .fa{
     color: #008ed6;
     background: #fff;
     padding: 4px;
@@ -30,6 +30,12 @@ body {
     font-size: 30px; }
 
 #explore-section .fa {
+  color: #fff;
+  background: #333;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }
+#share-section .fa {
   color: #fff;
   background: #333;
   padding: 4px;
